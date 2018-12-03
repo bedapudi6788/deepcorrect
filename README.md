@@ -6,7 +6,7 @@ Usage:
 ```
 from deeppunct import DeepPunct
 punct_correct = DeepPunct('params_path', 'checkpoint_path')
-punct_correct.punctcorrect('hey')
+punct_correct.punctuate('hey')
 'Hey!'
 ```
 
