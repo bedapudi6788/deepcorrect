@@ -1,6 +1,6 @@
 # deeppunct
 
-Pre-trained models available at https://drive.google.com/open?id=1g3gWMppxAZ4TBACnc8ewN3yUzpPuAE_L
+Pre-trained models (trained on google news, wikipedia and tatoeba) are available at https://drive.google.com/open?id=1Yd8cJaqfQkrJMbRVWIWtuyo4obTDYu-e
 
 Usage:
 ```
