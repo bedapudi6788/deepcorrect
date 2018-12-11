@@ -4,6 +4,8 @@ Pre-trained models (trained on google news, wikipedia and tatoeba) are available
 
 Demo of the model trained on google news corpus is available at http://bpraneeth.com/projects
 
+This repo uses a seq2seq model written by me in keras with tensorflow backend. The multi-purpose seq2seq model can be found at https://github.com/bedapudi6788/txt2txt/
+
 Usage:
 ```
 from deeppunct import DeepPunct
