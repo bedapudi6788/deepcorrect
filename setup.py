@@ -12,9 +12,9 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'deeppunct'
-DESCRIPTION = 'Punctuaton Correction wth deep learning'
-URL = 'https://github.com/bedapudi6788/deeppunct'
+NAME = 'deepcorrect'
+DESCRIPTION = 'Text Correction wth deep learning'
+URL = 'https://github.com/bedapudi6788/deepcorrect'
 EMAIL = 'praneethbedapudi@gmail.com'
 AUTHOR = 'BEDAPUDI PRANEETH'
 REQUIRES_PYTHON = '>=3.6.0'
