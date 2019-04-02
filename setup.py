@@ -22,7 +22,7 @@ VERSION = '1.0.4'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'txt2txt'
+    'txt2txt==1.0.9'
 ]
 
 # What packages are optional?
