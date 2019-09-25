@@ -1,5 +1,7 @@
 # deepcorrect
 
+Code and checkpoints corresponding to the posts https://medium.com/@praneethbedapudi/deepcorrection-3-spell-correction-and-simple-grammar-correction-d033a52bc11d and https://medium.com/@praneethbedapudi/deepcorrection2-automatic-punctuation-restoration-ac4a837d92d9
+
 Pre-trained models for punctuation correction (trained on google news, wikipedia and tatoeba) are available at https://drive.google.com/open?id=1Yd8cJaqfQkrJMbRVWIWtuyo4obTDYu-e
 
 Demo of the punctuation model trained on google news corpus is available at http://bpraneeth.com/projects/deeppunct
