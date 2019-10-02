@@ -22,7 +22,8 @@ VERSION = '1.0.5'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
-    'txt2txt'
+    'txt2txt',
+    'pydload'
 ]
 
 # What packages are optional?
