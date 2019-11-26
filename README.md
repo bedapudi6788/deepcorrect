@@ -25,3 +25,5 @@ pip install deepcorrect
 Max input and output lengths are 200
 
 Segment text into sentences using https://github.com/bedapudi6788/deepsegment and run punctuation correction on each sentence seperately.
+
+As explored in https://medium.com/@praneethbedapudi/deepcorrection-3-spell-correction-and-simple-grammar-correction-d033a52bc11d , the original aim of this repo is to do spell + simple grammar + punctuation correction. But, since, I realised that doing spell correction with seq2seq is a very dumb idea I didn't provide usable checkpoints for the same. Keep in mind that just for punctuation restoration, though seq2seq works well, it's very time consuming (since > len(input_sent) sequential predictions need to be made.).
